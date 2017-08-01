@@ -1,0 +1,496 @@
+
+Player.png
+size: 1024,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+FireballLeft
+  rotate: false
+  xy: 756, 217
+  size: 64, 36
+  orig: 64, 36
+  offset: 0, 0
+  index: -1
+FireballRight
+  rotate: false
+  xy: 756, 179
+  size: 64, 36
+  orig: 64, 36
+  offset: 0, 0
+  index: -1
+PlayerAttackLeftSC
+  rotate: false
+  xy: 1, 141
+  size: 36, 112
+  orig: 36, 112
+  offset: 0, 0
+  index: 1
+PlayerAttackLeftSC
+  rotate: false
+  xy: 81, 157
+  size: 36, 96
+  orig: 36, 96
+  offset: 0, 0
+  index: 0
+PlayerAttackLeftSC
+  rotate: false
+  xy: 81, 59
+  size: 36, 96
+  orig: 36, 96
+  offset: 0, 0
+  index: 2
+PlayerAttackLeftSL
+  rotate: false
+  xy: 39, 157
+  size: 40, 96
+  orig: 40, 96
+  offset: 0, 0
+  index: 2
+PlayerAttackLeftSL
+  rotate: false
+  xy: 608, 43
+  size: 12, 112
+  orig: 12, 112
+  offset: 0, 0
+  index: 1
+PlayerAttackLeftSL
+  rotate: false
+  xy: 708, 59
+  size: 8, 96
+  orig: 8, 96
+  offset: 0, 0
+  index: 0
+SheathedIdleLeftSL
+  rotate: false
+  xy: 708, 59
+  size: 8, 96
+  orig: 8, 96
+  offset: 0, 0
+  index: -1
+SheathedWalkLeftSL
+  rotate: false
+  xy: 708, 59
+  size: 8, 96
+  orig: 8, 96
+  offset: 0, 0
+  index: 0
+SheathedWalkLeftSL
+  rotate: false
+  xy: 708, 59
+  size: 8, 96
+  orig: 8, 96
+  offset: 0, 0
+  index: 1
+PlayerAttackLeftSR
+  rotate: false
+  xy: 592, 157
+  size: 16, 96
+  orig: 16, 96
+  offset: 0, 0
+  index: 0
+PlayerAttackLeftSR
+  rotate: false
+  xy: 592, 157
+  size: 16, 96
+  orig: 16, 96
+  offset: 0, 0
+  index: 2
+PlayerAttackLeftSR
+  rotate: false
+  xy: 590, 43
+  size: 16, 112
+  orig: 16, 112
+  offset: 0, 0
+  index: 1
+PlayerAttackLeftST
+  rotate: false
+  xy: 1, 1
+  size: 36, 24
+  orig: 36, 24
+  offset: 0, 0
+  index: 0
+PlayerAttackRightSC
+  rotate: false
+  xy: 1, 27
+  size: 36, 112
+  orig: 36, 112
+  offset: 0, 0
+  index: 1
+PlayerAttackRightSC
+  rotate: false
+  xy: 119, 157
+  size: 36, 96
+  orig: 36, 96
+  offset: 0, 0
+  index: 0
+PlayerAttackRightSC
+  rotate: false
+  xy: 119, 59
+  size: 36, 96
+  orig: 36, 96
+  offset: 0, 0
+  index: 2
+PlayerAttackRightSL
+  rotate: false
+  xy: 610, 157
+  size: 16, 96
+  orig: 16, 96
+  offset: 0, 0
+  index: 0
+PlayerAttackRightSL
+  rotate: false
+  xy: 622, 43
+  size: 16, 112
+  orig: 16, 112
+  offset: 0, 0
+  index: 1
+PlayerAttackRightSL
+  rotate: false
+  xy: 628, 157
+  size: 16, 96
+  orig: 16, 96
+  offset: 0, 0
+  index: 2
+PlayerAttackRightSR
+  rotate: false
+  xy: 39, 59
+  size: 40, 96
+  orig: 40, 96
+  offset: 0, 0
+  index: 2
+PlayerAttackRightSR
+  rotate: false
+  xy: 640, 43
+  size: 12, 112
+  orig: 12, 112
+  offset: 0, 0
+  index: 1
+PlayerAttackRightSR
+  rotate: false
+  xy: 736, 157
+  size: 8, 96
+  orig: 8, 96
+  offset: 0, 0
+  index: 0
+SheathedIdleRightSR
+  rotate: false
+  xy: 736, 157
+  size: 8, 96
+  orig: 8, 96
+  offset: 0, 0
+  index: -1
+SheathedWalkRightSR
+  rotate: false
+  xy: 736, 157
+  size: 8, 96
+  orig: 8, 96
+  offset: 0, 0
+  index: 0
+SheathedWalkRightSR
+  rotate: false
+  xy: 736, 157
+  size: 8, 96
+  orig: 8, 96
+  offset: 0, 0
+  index: 1
+PlayerAttackRightST
+  rotate: false
+  xy: 39, 33
+  size: 36, 24
+  orig: 36, 24
+  offset: 0, 0
+  index: 0
+PlayerFireLeftSC
+  rotate: false
+  xy: 157, 157
+  size: 36, 96
+  orig: 36, 96
+  offset: 0, 0
+  index: 0
+PlayerFireLeftSC
+  rotate: false
+  xy: 157, 59
+  size: 36, 96
+  orig: 36, 96
+  offset: 0, 0
+  index: 1
+PlayerFireLeftSC
+  rotate: false
+  xy: 195, 157
+  size: 36, 96
+  orig: 36, 96
+  offset: 0, 0
+  index: 2
+PlayerFireLeftSC
+  rotate: false
+  xy: 195, 59
+  size: 36, 96
+  orig: 36, 96
+  offset: 0, 0
+  index: 4
+PlayerFireLeftSC
+  rotate: false
+  xy: 423, 59
+  size: 35, 96
+  orig: 35, 96
+  offset: 0, 0
+  index: 3
+PlayerFireLeftSL
+  rotate: false
+  xy: 646, 157
+  size: 16, 96
+  orig: 16, 96
+  offset: 0, 0
+  index: 1
+PlayerFireLeftSL
+  rotate: false
+  xy: 664, 157
+  size: 16, 96
+  orig: 16, 96
+  offset: 0, 0
+  index: 2
+PlayerFireLeftSL
+  rotate: false
+  xy: 654, 59
+  size: 16, 96
+  orig: 16, 96
+  offset: 0, 0
+  index: 3
+PlayerFireLeftSL
+  rotate: false
+  xy: 682, 157
+  size: 16, 96
+  orig: 16, 96
+  offset: 0, 0
+  index: 4
+PlayerFireLeftSL
+  rotate: false
+  xy: 718, 59
+  size: 8, 96
+  orig: 8, 96
+  offset: 0, 0
+  index: 0
+PlayerFireLeftSR
+  rotate: false
+  xy: 461, 157
+  size: 25, 96
+  orig: 25, 96
+  offset: 0, 0
+  index: 3
+PlayerFireLeftSR
+  rotate: false
+  xy: 460, 59
+  size: 24, 96
+  orig: 24, 96
+  offset: 0, 0
+  index: 0
+PlayerFireLeftSR
+  rotate: false
+  xy: 460, 59
+  size: 24, 96
+  orig: 24, 96
+  offset: 0, 0
+  index: 4
+SheathedIdleLeftSR
+  rotate: false
+  xy: 460, 59
+  size: 24, 96
+  orig: 24, 96
+  offset: 0, 0
+  index: -1
+SheathedWalkLeftSR
+  rotate: false
+  xy: 460, 59
+  size: 24, 96
+  orig: 24, 96
+  offset: 0, 0
+  index: 1
+PlayerFireLeftSR
+  rotate: false
+  xy: 488, 157
+  size: 24, 96
+  orig: 24, 96
+  offset: 0, 0
+  index: 1
+PlayerFireLeftSR
+  rotate: false
+  xy: 486, 59
+  size: 24, 96
+  orig: 24, 96
+  offset: 0, 0
+  index: 2
+PlayerFireRightSC
+  rotate: false
+  xy: 233, 157
+  size: 36, 96
+  orig: 36, 96
+  offset: 0, 0
+  index: 0
+PlayerFireRightSC
+  rotate: false
+  xy: 233, 59
+  size: 36, 96
+  orig: 36, 96
+  offset: 0, 0
+  index: 1
+PlayerFireRightSC
+  rotate: false
+  xy: 271, 157
+  size: 36, 96
+  orig: 36, 96
+  offset: 0, 0
+  index: 2
+PlayerFireRightSC
+  rotate: false
+  xy: 271, 59
+  size: 36, 96
+  orig: 36, 96
+  offset: 0, 0
+  index: 3
+PlayerFireRightSC
+  rotate: false
+  xy: 309, 157
+  size: 36, 96
+  orig: 36, 96
+  offset: 0, 0
+  index: 4
+PlayerFireRightSL
+  rotate: false
+  xy: 514, 157
+  size: 24, 96
+  orig: 24, 96
+  offset: 0, 0
+  index: 0
+PlayerFireRightSL
+  rotate: false
+  xy: 514, 157
+  size: 24, 96
+  orig: 24, 96
+  offset: 0, 0
+  index: 4
+SheathedIdleRightSL
+  rotate: false
+  xy: 514, 157
+  size: 24, 96
+  orig: 24, 96
+  offset: 0, 0
+  index: -1
+SheathedWalkRightSL
+  rotate: false
+  xy: 514, 157
+  size: 24, 96
+  orig: 24, 96
+  offset: 0, 0
+  index: 1
+PlayerFireRightSL
+  rotate: false
+  xy: 512, 59
+  size: 24, 96
+  orig: 24, 96
+  offset: 0, 0
+  index: 1
+PlayerFireRightSL
+  rotate: false
+  xy: 540, 157
+  size: 24, 96
+  orig: 24, 96
+  offset: 0, 0
+  index: 2
+PlayerFireRightSL
+  rotate: false
+  xy: 538, 59
+  size: 24, 96
+  orig: 24, 96
+  offset: 0, 0
+  index: 3
+PlayerFireRightSR
+  rotate: false
+  xy: 672, 59
+  size: 16, 96
+  orig: 16, 96
+  offset: 0, 0
+  index: 1
+PlayerFireRightSR
+  rotate: false
+  xy: 700, 157
+  size: 16, 96
+  orig: 16, 96
+  offset: 0, 0
+  index: 2
+PlayerFireRightSR
+  rotate: false
+  xy: 690, 59
+  size: 16, 96
+  orig: 16, 96
+  offset: 0, 0
+  index: 3
+PlayerFireRightSR
+  rotate: false
+  xy: 718, 157
+  size: 16, 96
+  orig: 16, 96
+  offset: 0, 0
+  index: 4
+PlayerFireRightSR
+  rotate: false
+  xy: 746, 157
+  size: 8, 96
+  orig: 8, 96
+  offset: 0, 0
+  index: 0
+SheathedIdleLeftSC
+  rotate: false
+  xy: 309, 59
+  size: 36, 96
+  orig: 36, 96
+  offset: 0, 0
+  index: -1
+SheathedIdleRightSC
+  rotate: false
+  xy: 347, 157
+  size: 36, 96
+  orig: 36, 96
+  offset: 0, 0
+  index: -1
+SheathedWalkLeftSC
+  rotate: false
+  xy: 347, 59
+  size: 36, 96
+  orig: 36, 96
+  offset: 0, 0
+  index: 0
+SheathedWalkLeftSC
+  rotate: false
+  xy: 385, 157
+  size: 36, 96
+  orig: 36, 96
+  offset: 0, 0
+  index: 1
+SheathedWalkLeftSR
+  rotate: false
+  xy: 566, 157
+  size: 24, 96
+  orig: 24, 96
+  offset: 0, 0
+  index: 0
+SheathedWalkRightSC
+  rotate: false
+  xy: 385, 59
+  size: 36, 96
+  orig: 36, 96
+  offset: 0, 0
+  index: 0
+SheathedWalkRightSC
+  rotate: false
+  xy: 423, 157
+  size: 36, 96
+  orig: 36, 96
+  offset: 0, 0
+  index: 1
+SheathedWalkRightSL
+  rotate: false
+  xy: 564, 59
+  size: 24, 96
+  orig: 24, 96
+  offset: 0, 0
+  index: 0

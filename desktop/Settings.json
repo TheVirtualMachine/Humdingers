@@ -1,0 +1,13 @@
+{
+jumpButton: 51
+moveRightButton: 32
+moveLeftButton: 29
+magicButton: 33
+meleeButton: 45
+attackButton: 62
+attackRightButton: 22
+attackLeftButton: 21
+musicLevel: 1
+fullscreen: true
+debug: false
+}

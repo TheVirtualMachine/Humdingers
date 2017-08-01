@@ -1,0 +1,453 @@
+
+Knight.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+KnightAttackLeftSL
+  rotate: false
+  xy: 1, 119
+  size: 56, 116
+  orig: 56, 116
+  offset: 0, 0
+  index: 3
+KnightAttackLeftSL
+  rotate: false
+  xy: 59, 139
+  size: 76, 96
+  orig: 76, 96
+  offset: 0, 0
+  index: 4
+KnightAttackRightSR
+  rotate: false
+  xy: 1, 1
+  size: 56, 116
+  orig: 56, 116
+  offset: 0, 0
+  index: 3
+KnightAttackRightSR
+  rotate: false
+  xy: 59, 41
+  size: 76, 96
+  orig: 76, 96
+  offset: 0, 0
+  index: 4
+KnightWalkLeft2
+  rotate: false
+  xy: 137, 139
+  size: 68, 96
+  orig: 68, 96
+  offset: 0, 0
+  index: -1
+KnightWalkRight1
+  rotate: false
+  xy: 137, 41
+  size: 68, 96
+  orig: 68, 96
+  offset: 0, 0
+  index: -1
+KnightAttackLeftSC
+  rotate: false
+  xy: 207, 119
+  size: 36, 116
+  orig: 36, 116
+  offset: 0, 0
+  index: 3
+KnightAttackLeftSL
+  rotate: false
+  xy: 245, 139
+  size: 52, 96
+  orig: 52, 96
+  offset: 0, 0
+  index: 5
+KnightAttackRightSR
+  rotate: false
+  xy: 299, 139
+  size: 52, 96
+  orig: 52, 96
+  offset: 0, 0
+  index: 5
+KnightAttackLeftSC
+  rotate: false
+  xy: 353, 139
+  size: 36, 96
+  orig: 36, 96
+  offset: 0, 0
+  index: 0
+KnightAttackLeftSC
+  rotate: false
+  xy: 391, 139
+  size: 36, 96
+  orig: 36, 96
+  offset: 0, 0
+  index: 1
+KnightAttackLeftSC
+  rotate: false
+  xy: 429, 139
+  size: 36, 96
+  orig: 36, 96
+  offset: 0, 0
+  index: 2
+KnightAttackLeftSC
+  rotate: false
+  xy: 467, 139
+  size: 36, 96
+  orig: 36, 96
+  offset: 0, 0
+  index: 4
+KnightAttackLeftSC
+  rotate: false
+  xy: 505, 139
+  size: 36, 96
+  orig: 36, 96
+  offset: 0, 0
+  index: 5
+KnightAttackLeftSC
+  rotate: false
+  xy: 543, 139
+  size: 36, 96
+  orig: 36, 96
+  offset: 0, 0
+  index: 6
+KnightAttackRightSC
+  rotate: false
+  xy: 581, 139
+  size: 36, 96
+  orig: 36, 96
+  offset: 0, 0
+  index: 0
+KnightAttackRightSC
+  rotate: false
+  xy: 619, 139
+  size: 36, 96
+  orig: 36, 96
+  offset: 0, 0
+  index: 1
+KnightAttackRightSC
+  rotate: false
+  xy: 657, 139
+  size: 36, 96
+  orig: 36, 96
+  offset: 0, 0
+  index: 2
+KnightAttackRightSC
+  rotate: false
+  xy: 695, 139
+  size: 36, 96
+  orig: 36, 96
+  offset: 0, 0
+  index: 3
+KnightAttackRightSC
+  rotate: false
+  xy: 733, 139
+  size: 36, 96
+  orig: 36, 96
+  offset: 0, 0
+  index: 4
+KnightAttackRightSC
+  rotate: false
+  xy: 771, 139
+  size: 36, 96
+  orig: 36, 96
+  offset: 0, 0
+  index: 5
+KnightAttackRightSC
+  rotate: false
+  xy: 809, 139
+  size: 36, 96
+  orig: 36, 96
+  offset: 0, 0
+  index: 6
+KnightIdleLeftSC
+  rotate: false
+  xy: 847, 139
+  size: 36, 96
+  orig: 36, 96
+  offset: 0, 0
+  index: -1
+KnightIdleRightSC
+  rotate: false
+  xy: 885, 139
+  size: 36, 96
+  orig: 36, 96
+  offset: 0, 0
+  index: -1
+KnightWalkLeftSC
+  rotate: false
+  xy: 923, 139
+  size: 36, 96
+  orig: 36, 96
+  offset: 0, 0
+  index: 0
+KnightWalkLeftSC
+  rotate: false
+  xy: 961, 139
+  size: 36, 96
+  orig: 36, 96
+  offset: 0, 0
+  index: 1
+KnightAttackLeftSR
+  rotate: false
+  xy: 999, 135
+  size: 24, 100
+  orig: 24, 100
+  offset: 0, 0
+  index: 0
+KnightWalkRightSC
+  rotate: false
+  xy: 207, 21
+  size: 36, 96
+  orig: 36, 96
+  offset: 0, 0
+  index: 0
+KnightAttackLeftSL
+  rotate: false
+  xy: 245, 5
+  size: 20, 132
+  orig: 20, 132
+  offset: 0, 0
+  index: 2
+KnightAttackRightSR
+  rotate: false
+  xy: 267, 5
+  size: 20, 132
+  orig: 20, 132
+  offset: 0, 0
+  index: 2
+KnightAttackLeftSR
+  rotate: false
+  xy: 289, 5
+  size: 4, 132
+  orig: 4, 132
+  offset: 0, 0
+  index: 2
+KnightAttackRightSL
+  rotate: false
+  xy: 289, 5
+  size: 4, 132
+  orig: 4, 132
+  offset: 0, 0
+  index: 2
+KnightWalkRightSC
+  rotate: false
+  xy: 295, 41
+  size: 36, 96
+  orig: 36, 96
+  offset: 0, 0
+  index: 1
+KnightIdleLeftSL
+  rotate: false
+  xy: 333, 41
+  size: 28, 96
+  orig: 28, 96
+  offset: 0, 0
+  index: -1
+KnightIdleRightSR
+  rotate: false
+  xy: 333, 41
+  size: 28, 96
+  orig: 28, 96
+  offset: 0, 0
+  index: -1
+KnightWalkLeftSL
+  rotate: false
+  xy: 333, 41
+  size: 28, 96
+  orig: 28, 96
+  offset: 0, 0
+  index: 0
+KnightWalkLeftSL
+  rotate: false
+  xy: 333, 41
+  size: 28, 96
+  orig: 28, 96
+  offset: 0, 0
+  index: 1
+KnightWalkRightSR
+  rotate: false
+  xy: 333, 41
+  size: 28, 96
+  orig: 28, 96
+  offset: 0, 0
+  index: 0
+KnightWalkRightSR
+  rotate: false
+  xy: 333, 41
+  size: 28, 96
+  orig: 28, 96
+  offset: 0, 0
+  index: 1
+KnightAttackRightSL
+  rotate: false
+  xy: 363, 37
+  size: 24, 100
+  orig: 24, 100
+  offset: 0, 0
+  index: 0
+KnightAttackLeftSL
+  rotate: false
+  xy: 389, 41
+  size: 20, 96
+  orig: 20, 96
+  offset: 0, 0
+  index: 1
+KnightAttackRightSR
+  rotate: false
+  xy: 411, 41
+  size: 20, 96
+  orig: 20, 96
+  offset: 0, 0
+  index: 1
+KnightAttackLeftSL
+  rotate: false
+  xy: 433, 41
+  size: 16, 96
+  orig: 16, 96
+  offset: 0, 0
+  index: 6
+KnightAttackRightSR
+  rotate: false
+  xy: 451, 41
+  size: 16, 96
+  orig: 16, 96
+  offset: 0, 0
+  index: 6
+KnightAttackLeftSL
+  rotate: false
+  xy: 469, 37
+  size: 8, 100
+  orig: 8, 100
+  offset: 0, 0
+  index: 0
+KnightAttackRightSR
+  rotate: false
+  xy: 479, 37
+  size: 8, 100
+  orig: 8, 100
+  offset: 0, 0
+  index: 0
+KnightAttackLeftSR
+  rotate: false
+  xy: 489, 21
+  size: 4, 116
+  orig: 4, 116
+  offset: 0, 0
+  index: 3
+KnightAttackRightSL
+  rotate: false
+  xy: 489, 21
+  size: 4, 116
+  orig: 4, 116
+  offset: 0, 0
+  index: 3
+KnightAttackLeftSR
+  rotate: false
+  xy: 495, 41
+  size: 4, 96
+  orig: 4, 96
+  offset: 0, 0
+  index: 1
+KnightAttackLeftSR
+  rotate: false
+  xy: 495, 41
+  size: 4, 96
+  orig: 4, 96
+  offset: 0, 0
+  index: 4
+KnightAttackLeftSR
+  rotate: false
+  xy: 495, 41
+  size: 4, 96
+  orig: 4, 96
+  offset: 0, 0
+  index: 5
+KnightAttackRightSL
+  rotate: false
+  xy: 495, 41
+  size: 4, 96
+  orig: 4, 96
+  offset: 0, 0
+  index: 1
+KnightAttackRightSL
+  rotate: false
+  xy: 495, 41
+  size: 4, 96
+  orig: 4, 96
+  offset: 0, 0
+  index: 4
+KnightAttackRightSL
+  rotate: false
+  xy: 495, 41
+  size: 4, 96
+  orig: 4, 96
+  offset: 0, 0
+  index: 5
+KnightAttackLeftSR
+  rotate: false
+  xy: 501, 41
+  size: 4, 96
+  orig: 4, 96
+  offset: 0, 0
+  index: 6
+KnightAttackRightSL
+  rotate: false
+  xy: 501, 41
+  size: 4, 96
+  orig: 4, 96
+  offset: 0, 0
+  index: 6
+KnightIdleLeftSR
+  rotate: false
+  xy: 507, 41
+  size: 4, 96
+  orig: 4, 96
+  offset: 0, 0
+  index: -1
+KnightIdleRightSL
+  rotate: false
+  xy: 507, 41
+  size: 4, 96
+  orig: 4, 96
+  offset: 0, 0
+  index: -1
+KnightWalkLeftSR
+  rotate: false
+  xy: 507, 41
+  size: 4, 96
+  orig: 4, 96
+  offset: 0, 0
+  index: 0
+KnightWalkLeftSR
+  rotate: false
+  xy: 507, 41
+  size: 4, 96
+  orig: 4, 96
+  offset: 0, 0
+  index: 1
+KnightWalkRightSL
+  rotate: false
+  xy: 507, 41
+  size: 4, 96
+  orig: 4, 96
+  offset: 0, 0
+  index: 0
+KnightWalkRightSL
+  rotate: false
+  xy: 507, 41
+  size: 4, 96
+  orig: 4, 96
+  offset: 0, 0
+  index: 1
+KnightAttackLeftST
+  rotate: false
+  xy: 59, 15
+  size: 36, 24
+  orig: 36, 24
+  offset: 0, 0
+  index: 1
+KnightAttackRightST
+  rotate: false
+  xy: 295, 15
+  size: 36, 24
+  orig: 36, 24
+  offset: 0, 0
+  index: 1

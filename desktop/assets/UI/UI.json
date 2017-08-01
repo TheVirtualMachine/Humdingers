@@ -1,0 +1,62 @@
+{
+	com.badlogic.gdx.graphics.Color: {
+		white: {r: 1, g: 1, b: 1, a: 1},
+		light-gray: {r: 0.75, g: 0.75, b: 0.75, a: 1},
+		gray: {r: 0.5, g: 0.5, b: 0.5, a: 1},
+		dark-gray: { r: 0.25, g: 0.25, b: 0.25, a: 1},
+		black: {r: 0, g: 0, b: 0, a: 1},
+		faded-white: {r: 1, g: 1, b: 1, a: 0.75},
+		transparent: {r: 0, g: 0, b: 0, a: 0}
+	},
+	com.badlogic.gdx.scenes.scene2d.ui.Skin$TintedDrawable: {
+		light-gray-drawable: {name: white-drawable, color: light-gray},
+		gray-drawable: {name: white-drawable, color: gray},
+		dark-gray-drawable: {name: white-drawable, color: dark-gray},
+		faded-white-drawable: {name: white-drawable, color: faded-white}
+    },
+	com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle: {
+		normal-small: {
+			fontColor: black
+		},
+		normal-regular: {
+			fontColor: black
+		},
+		bold-big: {
+			fontColor: black
+		},
+		bold-large: {
+			fontColor: black
+		}
+	},
+	com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle: {
+		default: {
+			up: light-gray-drawable,
+			over: gray-drawable,
+			down: dark-gray-drawable,
+			fontColor: white
+		}
+		transparent-button: {
+			fontColor: black
+		}
+	},
+	com.badlogic.gdx.scenes.scene2d.ui.Slider$SliderStyle: {
+		default: {
+			background: light-gray-drawable,
+			knob: dark-gray-drawable
+		}
+	},
+	com.badlogic.gdx.scenes.scene2d.ui.CheckBox$CheckBoxStyle: {
+		default: {
+			checkboxOff: light-gray-drawable,
+			checkboxOn: dark-gray-drawable,
+			fontColor: black
+		}
+	},
+	com.badlogic.gdx.scenes.scene2d.ui.Window$WindowStyle: {
+		default: {
+			stageBackground: faded-white-drawable,
+			titleFontColor: black
+		}
+	}
+}
+
